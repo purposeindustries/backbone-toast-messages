@@ -1,5 +1,5 @@
 {
-  "name": "toast-messages",
+  "name": "backbone-toast-messages",
   "version": "1.0.0",
   "description": "",
   "main": "src/js/views/index.js",
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/purposeindustries/toast-messages.git"
+    "url": "https://github.com/purposeindustries/backbone-toast-messages.git"
   },
   "author": "ruffle1986 <tf@purposeindustries.co>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/purposeindustries/toast-messages/issues"
+    "url": "https://github.com/purposeindustries/backbone-toast-messages/issues"
   },
-  "homepage": "https://github.com/purposeindustries/toast-messages",
+  "homepage": "https://github.com/purposeindustries/backbone-toast-messages",
   "devDependencies": {
     "backbone": "^1.1.2",
     "jadeify": "^4.0.1",
