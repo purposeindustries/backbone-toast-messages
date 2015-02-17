@@ -15,8 +15,8 @@
     "type": "git",
     "url": "https://github.com/purposeindustries/toast-messages.git"
   },
-  "author": "ruff",
-  "license": "ISC",
+  "author": "ruffle1986 <tf@purposeindustries.co>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/purposeindustries/toast-messages/issues"
   },
