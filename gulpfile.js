@@ -17,8 +17,7 @@ gulp.task('build-example', ['less'], function () {
   var browserify = require('browserify');
   var b = browserify();
   b.add('./examples/src/index.js');
-  b.transform('jadeify')
-    .bundle()
+  b.bundle()
     .pipe(source('bundle.js'))
     .pipe(gulp.dest('./examples'));
 });
